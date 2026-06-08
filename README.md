@@ -1,32 +1,25 @@
-# Smart College Assistant
+# 🎓 Smart College Assistant
 
-AI-powered College Assistant built using LangChain Tool Calling Agent and Ollama.
+A web-based college utility application built using Python and Streamlit.
 
-## Features
+## 🚀 Live Demo
+
+🔗 https://smart-college-assistant-r4fxcijpeyjsfmfzs8q597.streamlit.app
+
+## ✨ Features
 
 * Attendance Calculator
 * Result Calculator
 * Fee Balance Calculator
 * Library Fine Calculator
 * Hostel Fee Calculator
-* Student Information Tool
+* Student Information System
 
-## Technologies Used
+## 🛠️ Tech Stack
 
 * Python
-* LangChain
-* Ollama (llama3.2)
-* create_tool_calling_agent()
-* AgentExecutor
-* ChatPromptTemplate
-* @tool Decorator
+* Streamlit
 
-## Test Cases Covered
+## 📂 GitHub Repository
 
-* Attendance Eligibility
-* Result & Grade Calculation
-* Fee Balance Calculation
-* Library Fine Calculation
-* Hostel Fee Calculation
-* Multi-Tool Challenge
-* Student Information Retrieval
+https://github.com/aryansingh0070/Smart-College-Assistant
